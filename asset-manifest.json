@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.5ecd60fb.chunk.css",
-    "main.js": "./static/js/main.1bef61cd.chunk.js",
-    "main.js.map": "./static/js/main.1bef61cd.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.585b451d.js",
-    "runtime-main.js.map": "./static/js/runtime-main.585b451d.js.map",
-    "static/css/2.3c515868.chunk.css": "./static/css/2.3c515868.chunk.css",
-    "static/js/2.9a301289.chunk.js": "./static/js/2.9a301289.chunk.js",
-    "static/js/2.9a301289.chunk.js.map": "./static/js/2.9a301289.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.7cb250b48a86b9b23af6dd58997706a1.js": "./precache-manifest.7cb250b48a86b9b23af6dd58997706a1.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.3c515868.chunk.css.map": "./static/css/2.3c515868.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "./static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.9a301289.chunk.js.LICENSE.txt": "./static/js/2.9a301289.chunk.js.LICENSE.txt"
+    "main.css": "/editor-demo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/editor-demo/static/js/main.895f5f64.chunk.js",
+    "main.js.map": "/editor-demo/static/js/main.895f5f64.chunk.js.map",
+    "runtime-main.js": "/editor-demo/static/js/runtime-main.6f412e63.js",
+    "runtime-main.js.map": "/editor-demo/static/js/runtime-main.6f412e63.js.map",
+    "static/css/2.3c515868.chunk.css": "/editor-demo/static/css/2.3c515868.chunk.css",
+    "static/js/2.22bfb095.chunk.js": "/editor-demo/static/js/2.22bfb095.chunk.js",
+    "static/js/2.22bfb095.chunk.js.map": "/editor-demo/static/js/2.22bfb095.chunk.js.map",
+    "index.html": "/editor-demo/index.html",
+    "precache-manifest.b58963bbe01011af5e033cbb5307175e.js": "/editor-demo/precache-manifest.b58963bbe01011af5e033cbb5307175e.js",
+    "service-worker.js": "/editor-demo/service-worker.js",
+    "static/css/2.3c515868.chunk.css.map": "/editor-demo/static/css/2.3c515868.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/editor-demo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.22bfb095.chunk.js.LICENSE.txt": "/editor-demo/static/js/2.22bfb095.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.585b451d.js",
+    "static/js/runtime-main.6f412e63.js",
     "static/css/2.3c515868.chunk.css",
-    "static/js/2.9a301289.chunk.js",
+    "static/js/2.22bfb095.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1bef61cd.chunk.js"
+    "static/js/main.895f5f64.chunk.js"
   ]
 }
